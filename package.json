@@ -1,0 +1,15 @@
+{
+  "name": "gofoodhelpers",
+  "version": "1.0.0",
+  "description": "GoFood useful api .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ichikyuu .",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "uuid": "^9.0.0"
+  }
+}
