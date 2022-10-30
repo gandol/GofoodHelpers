@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ichikyuu .",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ichikyuuofficial/GofoodHelpers"
+  },
   "license": "ISC",
   "dependencies": {
     "node-fetch": "^2.6.1",
