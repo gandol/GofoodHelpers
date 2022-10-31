@@ -1,6 +1,6 @@
 {
   "name": "gofoodhelpers",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Gofood useful api .",
   "main": "index.js",
   "scripts": {
