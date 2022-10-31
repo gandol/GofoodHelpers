@@ -1,7 +1,7 @@
 {
   "name": "gofoodhelpers",
-  "version": "1.0.1",
-  "description": "GoFood useful api .",
+  "version": "1.0.2",
+  "description": "Gofood useful api .",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
