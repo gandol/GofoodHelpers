@@ -5,3 +5,17 @@
 </p>
 
 ---
+
+## Installation
+
+```sh
+npm install gojekhelper
+```
+
+## Usage
+
+```js
+const Gojek = require('gojekhelpers');
+const app = new Gojek();
+```
+
