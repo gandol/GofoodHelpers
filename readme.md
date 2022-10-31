@@ -9,13 +9,13 @@
 ## Installation
 
 ```sh
-npm install gojekhelper
+npm install gofoodhelpers
 ```
 
 ## Usage
 
 ```js
-const Gojek = require('gojekhelpers');
+const Gojek = require('gofoodhelpers');
 const app = new Gojek();
 
 // Create account
