@@ -62,7 +62,7 @@ function randomAndroidVersion() {
 
 function randomAndroidBrand() {
 
-    var brandArr = ['samsung', 'xiaomi', 'oppo', 'vivo', 'realme', 'asus', 'huawei', 'lenovo', 'nokia', 'oneplus', 'google'];
+    var brandArr = ['samsung', 'xiaomi', 'oppo', 'vivo', 'realme', 'asus', 'huawei', 'lenovo', 'oneplus', 'google'];
     var brand = brandArr[Math.floor(Math.random() * brandArr.length)];
 
     return brand;
